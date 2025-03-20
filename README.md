@@ -2,7 +2,9 @@
 
 Navigate your styleguides in zeroheight without leaving Raycast.
 
-Uses the [zeroheight API](https://developers.zeroheight.com/75fe5b2ed/p/877703-getting-started) to retrieve information.
+Uses the [zeroheight API](https://developers.zeroheight.com/75fe5b2ed/p/877703-getting-started) to retrieve information and is a available on the [Raycast Store](https://www.raycast.com/zeroheight/quick-access-for-zeroheight). 
+
+Want to know how it was created? Check out the [zeroheight API x Raycast extension blog post](https://zeroheight.com/blog/building-raycast-extension-using-zeroheight-api/) for a deep-dive on how we used the zeroheight API to show page content in Raycast.
 
 ## Getting started
 
